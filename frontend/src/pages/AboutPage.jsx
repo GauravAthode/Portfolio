@@ -6,6 +6,7 @@ import Coding from "@/sections/Coding";
 import Reveal from "@/components/Reveal";
 import { useSEO } from "@/hooks/useSEO";
 
+
 const AboutPage = () => {
     useSEO({
         title: "About | Gaurav Athode — Full Stack Developer",
