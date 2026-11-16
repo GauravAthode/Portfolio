@@ -30,7 +30,7 @@ export const experience = [
     {
         company: "ZIDIO Development",
         role: "Web Developer Intern",
-        period: "Jul 2026 — Present",
+        period: "Jul 2026 — October 2026",
         current: true,
         points: [
             "Collaborating with a team of developers to design, develop, test, and deploy features for a full-stack web application, following Agile development practices.",
